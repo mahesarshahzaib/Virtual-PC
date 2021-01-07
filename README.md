@@ -1,0 +1,2 @@
+# Virtual-PC
+This software is developed to manage files by type, name or size. We can also search for file in different directories in a PC. This will also help to detect the hidden files and deleting them by just one click. Moreover it will help to create folders and manage them. The software will be coded in OOP concepts of Java Programming Language using Data Structures having GUI. The software will be very easy to operate and everyone will be able to operate it easily. Furthermore a user manual will be designed too for users.
